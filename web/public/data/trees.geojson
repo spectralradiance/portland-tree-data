@@ -1,4 +1,4755 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.75248127916437,
+          45.54537228775326
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Pearl",
+        "address": "100 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64821108201234,
+          45.56089939426624
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "101 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74149176162214,
+          45.448149228717085
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "102 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64427100422557,
+          45.55762713806758
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "species": "Cherry",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "103 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61739494867314,
+          45.4875745133169
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "species": "Douglas Fir",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "104 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.60332890844693,
+          45.46794071996988
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Downtown",
+        "address": "105 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62088390138442,
+          45.45853862029335
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "106 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7365108139435,
+          45.51657198074749
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "species": "Cherry",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "107 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65751983962173,
+          45.575768746280474
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "108 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63279206547381,
+          45.54886613097083
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "109 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6547734889177,
+          45.48753977649761
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "110 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71376654847215,
+          45.47658512492344
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Hawthorne",
+        "address": "111 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68252136610383,
+          45.48223374802423
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "112 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.75134696097535,
+          45.479711691514254
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "113 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6056174457064,
+          45.47682125497381
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "114 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65362670076793,
+          45.58461330462187
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "species": "Douglas Fir",
+        "condition": "Fair",
+        "neighborhood": "Pearl",
+        "address": "115 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67024663365324,
+          45.562262237134654
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "116 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.59691087552174,
+          45.500983430994175
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "species": "Douglas Fir",
+        "condition": "Poor",
+        "neighborhood": "Downtown",
+        "address": "117 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73202838890428,
+          45.580840465546665
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "species": "Douglas Fir",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "118 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66114085146222,
+          45.50462676986792
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "species": "Cherry",
+        "condition": "Fair",
+        "neighborhood": "Hawthorne",
+        "address": "119 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73815472112261,
+          45.55190934564104
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Alberta",
+        "address": "120 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73117775930486,
+          45.49002402058358
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "species": "Maple",
+        "condition": "Fair",
+        "neighborhood": "Hawthorne",
+        "address": "121 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73945726835237,
+          45.52429306793669
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Pearl",
+        "address": "122 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67018235518087,
+          45.56506572801202
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "123 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73858416394866,
+          45.52124091328463
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "species": "Oak",
+        "condition": "Fair",
+        "neighborhood": "Pearl",
+        "address": "124 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66570588900979,
+          45.48160345479155
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "species": "Maple",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "125 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67125001287528,
+          45.599541518988374
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "species": "Douglas Fir",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "126 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67205519401308,
+          45.469484313435856
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "127 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64610417886406,
+          45.563906431461724
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "128 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68424521737742,
+          45.58700225354287
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "species": "Douglas Fir",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "129 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66785555641209,
+          45.44642948160113
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "species": "Cedar",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "130 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7470631972998,
+          45.55631855144775
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "species": "Maple",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "131 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71192663776567,
+          45.52532897916937
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "species": "Cherry",
+        "condition": "Good",
+        "neighborhood": "Hawthorne",
+        "address": "132 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61530170797748,
+          45.558800410540954
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "133 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72601741370211,
+          45.57226351964266
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "species": "Maple",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "134 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61826912026086,
+          45.50884036416796
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "species": "Maple",
+        "condition": "Excellent",
+        "neighborhood": "Downtown",
+        "address": "135 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62838819826213,
+          45.55957817415059
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Pearl",
+        "address": "136 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73405383246484,
+          45.52886972062565
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "species": "Douglas Fir",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "137 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74442141786012,
+          45.58298175265129
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Downtown",
+        "address": "138 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62271858638721,
+          45.602949194946035
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Pearl",
+        "address": "139 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72228343212814,
+          45.52076658007211
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "species": "Cherry",
+        "condition": "Excellent",
+        "neighborhood": "Pearl",
+        "address": "140 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69401551878596,
+          45.44340886053622
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "species": "Cherry",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "141 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.59721536968117,
+          45.59623482253755
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "142 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.60148950160495,
+          45.49053725207913
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "143 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68019683726257,
+          45.45108677396223
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "species": "Cedar",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "144 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72675100624309,
+          45.45588183443849
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Pearl",
+        "address": "145 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6140370297393,
+          45.46224585823154
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "146 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66309543371341,
+          45.51013998645374
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Alberta",
+        "address": "147 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70621358195271,
+          45.55022015596317
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "148 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68332706838873,
+          45.546344126214024
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "species": "Maple",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "149 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.59710756834319,
+          45.60281671053671
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Hawthorne",
+        "address": "150 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70064158640568,
+          45.464257051258635
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "151 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62308380725763,
+          45.46830349317715
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "152 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73990915969308,
+          45.59214496630977
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "species": "Douglas Fir",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "153 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73161133443601,
+          45.56185066943696
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "154 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6200169495373,
+          45.553063540608214
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "155 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6887108763898,
+          45.45783175483403
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Downtown",
+        "address": "156 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65454485963178,
+          45.56644307568314
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "157 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66673790163604,
+          45.5559707914816
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "species": "Maple",
+        "condition": "Excellent",
+        "neighborhood": "Pearl",
+        "address": "158 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69740844247805,
+          45.44882850208973
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "species": "Cedar",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "159 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69813875754764,
+          45.44975661730702
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "species": "Maple",
+        "condition": "Fair",
+        "neighborhood": "Pearl",
+        "address": "160 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74003602053251,
+          45.48298875827567
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "161 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.60770203748902,
+          45.46779253413315
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "species": "Douglas Fir",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "162 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.60856503276136,
+          45.471761706146914
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "species": "Cherry",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "163 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73918769977553,
+          45.56904392146167
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "species": "Maple",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "164 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68283448245137,
+          45.573717856895506
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Pearl",
+        "address": "165 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69272844342964,
+          45.54866930923978
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "166 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6925344585024,
+          45.54570107817722
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "167 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71468856857757,
+          45.583390145852086
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "168 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70117306213123,
+          45.53851540079804
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "169 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61256224273421,
+          45.46156732544469
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "species": "Douglas Fir",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "170 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67329574422935,
+          45.51283320247279
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "species": "Cedar",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "171 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65020497041421,
+          45.454259809780204
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "species": "Oak",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "172 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67534339935436,
+          45.58707149361553
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "species": "Cherry",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "173 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73611695215054,
+          45.49036883240415
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "species": "Cherry",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "174 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6915109729987,
+          45.53412084077853
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "species": "Maple",
+        "condition": "Fair",
+        "neighborhood": "Alberta",
+        "address": "175 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6636854350087,
+          45.51184610399837
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "176 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67469516050006,
+          45.55116435731041
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "177 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65740127114202,
+          45.5492806138088
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "178 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73290636604068,
+          45.5721140631322
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "179 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74483048333047,
+          45.57902203113996
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "species": "Cherry",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "180 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7328715847854,
+          45.50700845806024
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "species": "Maple",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "181 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.60320843323528,
+          45.471205869073046
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Downtown",
+        "address": "182 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62074918442374,
+          45.482935724745595
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "species": "Cherry",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "183 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6670549535405,
+          45.52804510173689
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "184 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68820447890262,
+          45.58578724741456
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "185 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6844718388405,
+          45.58090318556532
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "species": "Douglas Fir",
+        "condition": "Fair",
+        "neighborhood": "Hawthorne",
+        "address": "186 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7125474084932,
+          45.543343749917085
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "species": "Maple",
+        "condition": "Fair",
+        "neighborhood": "Pearl",
+        "address": "187 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61359870675355,
+          45.49679960585941
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Pearl",
+        "address": "188 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73203415734766,
+          45.50434964678901
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "189 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68193511146382,
+          45.49600502256609
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "190 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66303029372733,
+          45.587838156534424
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "species": "Maple",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "191 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70870497562042,
+          45.593902665189454
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "species": "Cherry",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "192 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62850409264941,
+          45.56060544972102
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "species": "Douglas Fir",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "193 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.75183902880853,
+          45.51279775616746
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "194 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.59956748359697,
+          45.590190659307034
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "195 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.75214667258555,
+          45.53336671728396
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "species": "Cherry",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "196 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6958263817299,
+          45.45110954135818
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "species": "Douglas Fir",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "197 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69582280550975,
+          45.56486075326304
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "species": "Cherry",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "198 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6701759523324,
+          45.446165325928
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "199 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.75151820017909,
+          45.44950530200652
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "species": "Douglas Fir",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "200 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73628764402014,
+          45.467445175325565
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "201 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69745977210833,
+          45.484062991449946
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Pearl",
+        "address": "202 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7523744519204,
+          45.460359799945216
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "203 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66174734220003,
+          45.47479676433467
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "204 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73711418958924,
+          45.53912985837069
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "205 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69719165980511,
+          45.511604482117555
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "206 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73959678069697,
+          45.57463694689441
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "207 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67300352048984,
+          45.47124591377377
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "208 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66168706094982,
+          45.57518153574732
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "209 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71746484972945,
+          45.58412498944044
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "species": "Cherry",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "210 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7044807331378,
+          45.522153040578544
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "species": "Cherry",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "211 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61563180323868,
+          45.497518214906286
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "212 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64127105374334,
+          45.45676207391328
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "species": "Cherry",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "213 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68477507206616,
+          45.55695878503563
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "species": "Maple",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "214 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71755417377972,
+          45.507768180588464
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "215 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68840238996717,
+          45.52801150898332
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Alberta",
+        "address": "216 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7074233213842,
+          45.515663242056505
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Pearl",
+        "address": "217 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6707447655386,
+          45.46219275860081
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "species": "Douglas Fir",
+        "condition": "Good",
+        "neighborhood": "Pearl",
+        "address": "218 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64054939982512,
+          45.52053577395403
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "219 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69874202893611,
+          45.49046343412242
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "220 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.60059581102357,
+          45.48695381228532
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Pearl",
+        "address": "221 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6779424088762,
+          45.582017791562066
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "species": "Maple",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "222 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7269848127376,
+          45.51353900770176
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "species": "Maple",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "223 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6923698092397,
+          45.57460250324791
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "species": "Maple",
+        "condition": "Excellent",
+        "neighborhood": "Pearl",
+        "address": "224 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.60462289722273,
+          45.572846732204006
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "225 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65947217580113,
+          45.56537495125219
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "species": "Cedar",
+        "condition": "Good",
+        "neighborhood": "Hawthorne",
+        "address": "226 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68564763935692,
+          45.5151463143822
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "227 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65894205404078,
+          45.54242837137154
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Pearl",
+        "address": "228 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73135386505906,
+          45.548732501950724
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Pearl",
+        "address": "229 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64618361827443,
+          45.508426811625604
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "species": "Cherry",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "230 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71124806030204,
+          45.48916078233499
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "species": "Cherry",
+        "condition": "Excellent",
+        "neighborhood": "Pearl",
+        "address": "231 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65647371885373,
+          45.569116484263475
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "species": "Douglas Fir",
+        "condition": "Poor",
+        "neighborhood": "Downtown",
+        "address": "232 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73264469582796,
+          45.47903351204256
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "233 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70726510998173,
+          45.46961164627531
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "234 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70782840951284,
+          45.518055675244184
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "species": "Cherry",
+        "condition": "Fair",
+        "neighborhood": "Hawthorne",
+        "address": "235 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74361230369611,
+          45.52207123509521
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "species": "Maple",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "236 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74187069813905,
+          45.48312286438592
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "237 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63547998713399,
+          45.44950106770314
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "species": "Cherry",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "238 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68674140206768,
+          45.60257527598921
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "species": "Cherry",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "239 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70511367904696,
+          45.5083996949488
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "240 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71036815274218,
+          45.554051787837345
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "species": "Cherry",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "241 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70475919419584,
+          45.49338674514723
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "species": "Cherry",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "242 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72646979337688,
+          45.50918361132789
+        ]
+      },
+      "properties": {
+        "id": 144,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "243 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66860785774635,
+          45.47563331813604
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "244 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65567943567936,
+          45.44768311079066
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "species": "Douglas Fir",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "245 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69120449003363,
+          45.44525191431457
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "246 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73184762009147,
+          45.5466975502054
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "species": "Oak",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "247 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71748605502798,
+          45.59990314121654
+        ]
+      },
+      "properties": {
+        "id": 149,
+        "species": "Cedar",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "248 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67516445734515,
+          45.590562903989046
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "249 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63044821507772,
+          45.49744403889829
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "250 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66257296441374,
+          45.49083293596348
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "species": "Cherry",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "251 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70329260708628,
+          45.520558621688274
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "252 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.59955905898678,
+          45.58220026931745
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "species": "Douglas Fir",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "253 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63733017574957,
+          45.45004756785556
+        ]
+      },
+      "properties": {
+        "id": 155,
+        "species": "Cherry",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "254 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7362835968305,
+          45.597435910139346
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "255 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61081233156857,
+          45.459017871638714
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "256 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74451048028101,
+          45.598257087046576
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "species": "Oak",
+        "condition": "Fair",
+        "neighborhood": "Hawthorne",
+        "address": "257 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7436325487073,
+          45.506661331821725
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "258 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6349787105065,
+          45.55805878803567
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "259 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64697906809506,
+          45.48062723889632
+        ]
+      },
+      "properties": {
+        "id": 161,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "260 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63482384912092,
+          45.59959803651528
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "species": "Maple",
+        "condition": "Poor",
+        "neighborhood": "Pearl",
+        "address": "261 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.75185144009639,
+          45.49097857283905
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "262 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7331918326881,
+          45.50303857436405
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "263 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72928561614911,
+          45.56986711582095
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "species": "Maple",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "264 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61043035743623,
+          45.48159676669701
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "species": "Douglas Fir",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "265 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71563072669454,
+          45.48370037430617
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "species": "Maple",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "266 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74466509595474,
+          45.53051970201632
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "species": "Oak",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "267 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6212343719772,
+          45.48307971590523
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "species": "Douglas Fir",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "268 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66497536922388,
+          45.48101691230841
+        ]
+      },
+      "properties": {
+        "id": 170,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Alberta",
+        "address": "269 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65116622945142,
+          45.5995351175323
+        ]
+      },
+      "properties": {
+        "id": 171,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "270 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.60070654930753,
+          45.56759385852321
+        ]
+      },
+      "properties": {
+        "id": 172,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "271 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70011164706635,
+          45.54019439970628
+        ]
+      },
+      "properties": {
+        "id": 173,
+        "species": "Douglas Fir",
+        "condition": "Fair",
+        "neighborhood": "Pearl",
+        "address": "272 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65608970274933,
+          45.458610228770496
+        ]
+      },
+      "properties": {
+        "id": 174,
+        "species": "Maple",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "273 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63930543712972,
+          45.53579580885894
+        ]
+      },
+      "properties": {
+        "id": 175,
+        "species": "Maple",
+        "condition": "Fair",
+        "neighborhood": "Alberta",
+        "address": "274 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72435583285599,
+          45.509544494947
+        ]
+      },
+      "properties": {
+        "id": 176,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Hawthorne",
+        "address": "275 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62360738086922,
+          45.58922191591707
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "276 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62780579382328,
+          45.582327513492004
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "species": "Cherry",
+        "condition": "Excellent",
+        "neighborhood": "Pearl",
+        "address": "277 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64060832606792,
+          45.58068649550381
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "species": "Cherry",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "278 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67063143067695,
+          45.44529098481614
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "species": "Cherry",
+        "condition": "Fair",
+        "neighborhood": "Alberta",
+        "address": "279 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65431511715187,
+          45.5040280798836
+        ]
+      },
+      "properties": {
+        "id": 181,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Pearl",
+        "address": "280 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61500542476563,
+          45.44706794394344
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Hawthorne",
+        "address": "281 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65481837241954,
+          45.54668838090231
+        ]
+      },
+      "properties": {
+        "id": 183,
+        "species": "Cherry",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "282 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6050811547389,
+          45.46542832200115
+        ]
+      },
+      "properties": {
+        "id": 184,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Downtown",
+        "address": "283 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6704755430588,
+          45.48063200518901
+        ]
+      },
+      "properties": {
+        "id": 185,
+        "species": "Cherry",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "284 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64504556133798,
+          45.594964922945906
+        ]
+      },
+      "properties": {
+        "id": 186,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "285 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61481679457607,
+          45.559319864089154
+        ]
+      },
+      "properties": {
+        "id": 187,
+        "species": "Maple",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "286 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71172457758628,
+          45.59331249051418
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "287 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61961096907105,
+          45.59515282717623
+        ]
+      },
+      "properties": {
+        "id": 189,
+        "species": "Maple",
+        "condition": "Fair",
+        "neighborhood": "Hawthorne",
+        "address": "288 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69278065716091,
+          45.500451814593966
+        ]
+      },
+      "properties": {
+        "id": 190,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "289 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65381028524268,
+          45.54910699808991
+        ]
+      },
+      "properties": {
+        "id": 191,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Downtown",
+        "address": "290 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73633517835071,
+          45.48203502354624
+        ]
+      },
+      "properties": {
+        "id": 192,
+        "species": "Cedar",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "291 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72193078369301,
+          45.47620917925546
+        ]
+      },
+      "properties": {
+        "id": 193,
+        "species": "Douglas Fir",
+        "condition": "Fair",
+        "neighborhood": "Pearl",
+        "address": "292 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61913801977917,
+          45.4435176882368
+        ]
+      },
+      "properties": {
+        "id": 194,
+        "species": "Douglas Fir",
+        "condition": "Good",
+        "neighborhood": "Hawthorne",
+        "address": "293 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73889478433769,
+          45.570826211769216
+        ]
+      },
+      "properties": {
+        "id": 195,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "294 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71841394302552,
+          45.56946154627756
+        ]
+      },
+      "properties": {
+        "id": 196,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Pearl",
+        "address": "295 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63780811088733,
+          45.45144784285779
+        ]
+      },
+      "properties": {
+        "id": 197,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Downtown",
+        "address": "296 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6985567641892,
+          45.51478803428318
+        ]
+      },
+      "properties": {
+        "id": 198,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "297 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6580659061945,
+          45.478511961026925
+        ]
+      },
+      "properties": {
+        "id": 199,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "298 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74675093480089,
+          45.597308189299525
+        ]
+      },
+      "properties": {
+        "id": 200,
+        "species": "Cherry",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "299 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64249878961647,
+          45.460337892748676
+        ]
+      },
+      "properties": {
+        "id": 201,
+        "species": "Cherry",
+        "condition": "Excellent",
+        "neighborhood": "Downtown",
+        "address": "300 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74597384266879,
+          45.54039158778135
+        ]
+      },
+      "properties": {
+        "id": 202,
+        "species": "Oak",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "301 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68388853318793,
+          45.52795309398901
+        ]
+      },
+      "properties": {
+        "id": 203,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Downtown",
+        "address": "302 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6517289267963,
+          45.46137025158881
+        ]
+      },
+      "properties": {
+        "id": 204,
+        "species": "Cedar",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "303 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6902728286117,
+          45.585158563518156
+        ]
+      },
+      "properties": {
+        "id": 205,
+        "species": "Cherry",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "304 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68820075899825,
+          45.458277734284096
+        ]
+      },
+      "properties": {
+        "id": 206,
+        "species": "Oak",
+        "condition": "Fair",
+        "neighborhood": "Pearl",
+        "address": "305 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74574167069814,
+          45.5907416057175
+        ]
+      },
+      "properties": {
+        "id": 207,
+        "species": "Maple",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "306 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69685950249986,
+          45.562198235070696
+        ]
+      },
+      "properties": {
+        "id": 208,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "307 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64928087764284,
+          45.532933341051155
+        ]
+      },
+      "properties": {
+        "id": 209,
+        "species": "Cherry",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "308 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71046229477643,
+          45.45129537279558
+        ]
+      },
+      "properties": {
+        "id": 210,
+        "species": "Oak",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "309 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73172617186269,
+          45.52425000751488
+        ]
+      },
+      "properties": {
+        "id": 211,
+        "species": "Cherry",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "310 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69767323190155,
+          45.57832374697621
+        ]
+      },
+      "properties": {
+        "id": 212,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "311 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6255347024735,
+          45.59899145634011
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "312 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71369136397534,
+          45.57577772639355
+        ]
+      },
+      "properties": {
+        "id": 214,
+        "species": "Douglas Fir",
+        "condition": "Fair",
+        "neighborhood": "Alberta",
+        "address": "313 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72745811068599,
+          45.49922774731792
+        ]
+      },
+      "properties": {
+        "id": 215,
+        "species": "Douglas Fir",
+        "condition": "Poor",
+        "neighborhood": "Downtown",
+        "address": "314 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.60099334899873,
+          45.56161904945895
+        ]
+      },
+      "properties": {
+        "id": 216,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "315 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7312975158648,
+          45.51564732650768
+        ]
+      },
+      "properties": {
+        "id": 217,
+        "species": "Oak",
+        "condition": "Fair",
+        "neighborhood": "Hawthorne",
+        "address": "316 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74806558777192,
+          45.456657126396344
+        ]
+      },
+      "properties": {
+        "id": 218,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Downtown",
+        "address": "317 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68864063630193,
+          45.51396207589285
+        ]
+      },
+      "properties": {
+        "id": 219,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "318 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67450759107183,
+          45.477555034454035
+        ]
+      },
+      "properties": {
+        "id": 220,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Downtown",
+        "address": "319 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66158151993724,
+          45.55157886286936
+        ]
+      },
+      "properties": {
+        "id": 221,
+        "species": "Cedar",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "320 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6605910068889,
+          45.50630614337402
+        ]
+      },
+      "properties": {
+        "id": 222,
+        "species": "Maple",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "321 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6342172566782,
+          45.56583992436938
+        ]
+      },
+      "properties": {
+        "id": 223,
+        "species": "Oak",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "322 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68757819818343,
+          45.52264565257813
+        ]
+      },
+      "properties": {
+        "id": 224,
+        "species": "Douglas Fir",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "323 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66708722917205,
+          45.479881714572265
+        ]
+      },
+      "properties": {
+        "id": 225,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "324 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7534843541463,
+          45.44983236185004
+        ]
+      },
+      "properties": {
+        "id": 226,
+        "species": "Maple",
+        "condition": "Fair",
+        "neighborhood": "Hawthorne",
+        "address": "325 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64296316614897,
+          45.53480794894173
+        ]
+      },
+      "properties": {
+        "id": 227,
+        "species": "Cherry",
+        "condition": "Fair",
+        "neighborhood": "Downtown",
+        "address": "326 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70452009128873,
+          45.446401049443956
+        ]
+      },
+      "properties": {
+        "id": 228,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "327 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73954489865672,
+          45.51293788473092
+        ]
+      },
+      "properties": {
+        "id": 229,
+        "species": "Cherry",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "328 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70683907010627,
+          45.50638667149749
+        ]
+      },
+      "properties": {
+        "id": 230,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "329 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6551670532851,
+          45.45528470039568
+        ]
+      },
+      "properties": {
+        "id": 231,
+        "species": "Cedar",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "330 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62545122375603,
+          45.55944465690782
+        ]
+      },
+      "properties": {
+        "id": 232,
+        "species": "Douglas Fir",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "331 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72872315640927,
+          45.484018915520274
+        ]
+      },
+      "properties": {
+        "id": 233,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Pearl",
+        "address": "332 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63577166796048,
+          45.52212272400278
+        ]
+      },
+      "properties": {
+        "id": 234,
+        "species": "Cedar",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "333 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6565595152893,
+          45.544711731049695
+        ]
+      },
+      "properties": {
+        "id": 235,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Sellwood",
+        "address": "334 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65546138079594,
+          45.518091373364214
+        ]
+      },
+      "properties": {
+        "id": 236,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "335 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68260420216858,
+          45.454934504987726
+        ]
+      },
+      "properties": {
+        "id": 237,
+        "species": "Maple",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "336 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61820299457197,
+          45.45534096018775
+        ]
+      },
+      "properties": {
+        "id": 238,
+        "species": "Maple",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "337 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62979215243755,
+          45.53175461941413
+        ]
+      },
+      "properties": {
+        "id": 239,
+        "species": "Maple",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "338 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6596820665488,
+          45.473182314411076
+        ]
+      },
+      "properties": {
+        "id": 240,
+        "species": "Cedar",
+        "condition": "Good",
+        "neighborhood": "Downtown",
+        "address": "339 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61262270656708,
+          45.45962430036326
+        ]
+      },
+      "properties": {
+        "id": 241,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Hawthorne",
+        "address": "340 Example St",
+        "diameter": null,
+        "diameter_bucket": "Unknown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71684400422428,
+          45.470673425829816
+        ]
+      },
+      "properties": {
+        "id": 242,
+        "species": "Cherry",
+        "condition": "Poor",
+        "neighborhood": "Hawthorne",
+        "address": "341 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69825932645028,
+          45.540632865011624
+        ]
+      },
+      "properties": {
+        "id": 243,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Sellwood",
+        "address": "342 Example St",
+        "diameter": 14.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74810451719425,
+          45.55168763528953
+        ]
+      },
+      "properties": {
+        "id": 244,
+        "species": "Oak",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "343 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69463272724421,
+          45.532338113986945
+        ]
+      },
+      "properties": {
+        "id": 245,
+        "species": "Oak",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "344 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73385445910651,
+          45.536302322333825
+        ]
+      },
+      "properties": {
+        "id": 246,
+        "species": "Oak",
+        "condition": "Fair",
+        "neighborhood": "Sellwood",
+        "address": "345 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.60640264806948,
+          45.53827059650425
+        ]
+      },
+      "properties": {
+        "id": 247,
+        "species": "Oak",
+        "condition": "Poor",
+        "neighborhood": "Alberta",
+        "address": "346 Example St",
+        "diameter": 8.0,
+        "diameter_bucket": "6-12 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6238495643369,
+          45.55028262399915
+        ]
+      },
+      "properties": {
+        "id": 248,
+        "species": "Cedar",
+        "condition": "Excellent",
+        "neighborhood": "Sellwood",
+        "address": "347 Example St",
+        "diameter": 30.0,
+        "diameter_bucket": "24+ in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69846737296288,
+          45.50095649541549
+        ]
+      },
+      "properties": {
+        "id": 249,
+        "species": "Douglas Fir",
+        "condition": "Good",
+        "neighborhood": "Alberta",
+        "address": "348 Example St",
+        "diameter": 20.0,
+        "diameter_bucket": "12-24 in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.59648674062352,
+          45.4737848373863
+        ]
+      },
+      "properties": {
+        "id": 250,
+        "species": "Douglas Fir",
+        "condition": "Excellent",
+        "neighborhood": "Alberta",
+        "address": "349 Example St",
+        "diameter": 3.0,
+        "diameter_bucket": "<6 in"
+      }
+    }
+  ]
 }

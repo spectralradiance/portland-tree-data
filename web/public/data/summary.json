@@ -1,29 +1,88 @@
 {
-  "total_trees": 0,
-  "unique_species": 0,
-  "top_species": [],
-  "condition_distribution": [],
-  "top_neighborhoods": [],
+  "total_trees": 250,
+  "unique_species": 5,
+  "top_species": [
+    [
+      "Oak",
+      62
+    ],
+    [
+      "Cedar",
+      59
+    ],
+    [
+      "Maple",
+      48
+    ],
+    [
+      "Douglas Fir",
+      42
+    ],
+    [
+      "Cherry",
+      39
+    ]
+  ],
+  "condition_distribution": [
+    [
+      "Good",
+      66
+    ],
+    [
+      "Poor",
+      65
+    ],
+    [
+      "Excellent",
+      62
+    ],
+    [
+      "Fair",
+      57
+    ]
+  ],
+  "top_neighborhoods": [
+    [
+      "Sellwood",
+      63
+    ],
+    [
+      "Alberta",
+      55
+    ],
+    [
+      "Downtown",
+      47
+    ],
+    [
+      "Hawthorne",
+      44
+    ],
+    [
+      "Pearl",
+      41
+    ]
+  ],
   "diameter_distribution": [
     [
       "<6 in",
-      0
+      44
     ],
     [
       "6-12 in",
-      0
+      36
     ],
     [
       "12-24 in",
-      0
+      80
     ],
     [
       "24+ in",
-      0
+      38
     ],
     [
       "Unknown",
-      0
+      52
     ]
   ]
 }
