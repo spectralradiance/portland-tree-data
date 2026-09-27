@@ -4,6 +4,8 @@ Analysis and visualization (map + charts) of Portland, Oregon tree data with a *
 
 ## Screenshots
 
+Screens below use a local sample dataset distributed across Portland neighborhoods.
+
 ### App overview
 
 ![App overview](docs/screenshots/app-overview.png)
