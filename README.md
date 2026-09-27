@@ -2,6 +2,16 @@
 
 Analysis and visualization (map + charts) of Portland, Oregon tree data with a **Python prep pipeline** and **React frontend**.
 
+## Screenshots
+
+### App overview
+
+![App overview](docs/screenshots/app-overview.png)
+
+### Full page
+
+![Full page view](docs/screenshots/app-fullpage.png)
+
 ## Stack
 
 - Python: fetch + normalize GeoJSON and compute summary metrics
