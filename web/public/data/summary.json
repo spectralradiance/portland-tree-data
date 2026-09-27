@@ -1,29 +1,104 @@
 {
-  "total_trees": 0,
-  "unique_species": 0,
-  "top_species": [],
-  "condition_distribution": [],
-  "top_neighborhoods": [],
+  "total_trees": 640,
+  "unique_species": 6,
+  "top_species": [
+    [
+      "Douglas Fir",
+      126
+    ],
+    [
+      "Cherry",
+      120
+    ],
+    [
+      "Red Oak",
+      107
+    ],
+    [
+      "Dogwood",
+      97
+    ],
+    [
+      "Western Red Cedar",
+      96
+    ],
+    [
+      "Bigleaf Maple",
+      94
+    ]
+  ],
+  "condition_distribution": [
+    [
+      "Good",
+      171
+    ],
+    [
+      "Fair",
+      164
+    ],
+    [
+      "Excellent",
+      155
+    ],
+    [
+      "Poor",
+      150
+    ]
+  ],
+  "top_neighborhoods": [
+    [
+      "Montavilla",
+      91
+    ],
+    [
+      "Lair Hill",
+      91
+    ],
+    [
+      "Buckman",
+      86
+    ],
+    [
+      "Downtown",
+      84
+    ],
+    [
+      "Sellwood",
+      78
+    ],
+    [
+      "Northwest",
+      74
+    ],
+    [
+      "Alberta Arts",
+      71
+    ],
+    [
+      "St. Johns",
+      65
+    ]
+  ],
   "diameter_distribution": [
     [
       "<6 in",
-      0
+      94
     ],
     [
       "6-12 in",
-      0
+      164
     ],
     [
       "12-24 in",
-      0
+      158
     ],
     [
       "24+ in",
-      0
+      141
     ],
     [
       "Unknown",
-      0
+      83
     ]
   ]
 }
