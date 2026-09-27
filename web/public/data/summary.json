@@ -1,0 +1,29 @@
+{
+  "total_trees": 0,
+  "unique_species": 0,
+  "top_species": [],
+  "condition_distribution": [],
+  "top_neighborhoods": [],
+  "diameter_distribution": [
+    [
+      "<6 in",
+      0
+    ],
+    [
+      "6-12 in",
+      0
+    ],
+    [
+      "12-24 in",
+      0
+    ],
+    [
+      "24+ in",
+      0
+    ],
+    [
+      "Unknown",
+      0
+    ]
+  ]
+}
